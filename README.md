@@ -12,7 +12,7 @@
 - 🎓 Final year **B.Tech in Computer Science**
 - 🌱 Currently diving deeper into **Full Stack Web Development**, **Cloud**, and **Data Structures**
 - 💡 I enjoy solving real-world problems and building scalable applications
-- 📫 Reach me: `ananyasingh.dev@gmail.com`
+- 📫 Reach me: `ananyasinghoct24@gmail.com`
 - 🧠 Currently Learning: Cloud (AWS), Docker, OAuth, Advanced Git, CI/CD
 
 ---
@@ -28,7 +28,7 @@
 ### 🔥 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/annannya_22?theme=light&font=Fira+Code&ext=contest" alt="Leetcode Stats" />
+  <img src="https://leetcard.jacoblin.cool/_annannya_22?theme=light&font=Fira+Code&ext=contest" alt="Leetcode Stats" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ---
 
 ### 📄 Resume
-📌 [Download My Resume]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1Y43TsNFetzT-ILIjweBaSEymtCQDcQnT/view?usp=drive_link)) *(Update your link)*
+📌 [Download My Resume]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1Y43TsNFetzT-ILIjweBaSEymtCQDcQnT/view?usp=drive_link))
 
 ---
 
